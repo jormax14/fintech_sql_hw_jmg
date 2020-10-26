@@ -1,0 +1,1 @@
+# fintech_sql_hw_jmg
